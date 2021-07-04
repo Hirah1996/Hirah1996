@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hirah1996
-- 👀 I’m interested in learning programming as I am a beginner
+- 👀 I’m interested in learning programming. I am a beginner
 - 🌱 I’m currently learning python and its different packages
 - 💞️ I’m looking to collaborate on github
 - 📫 you can reach me at my mail id- hiraamir1996@gmail.com
